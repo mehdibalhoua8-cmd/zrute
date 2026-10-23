@@ -29,7 +29,6 @@
   { "name": "Radio Yabiladi", "streamUrl": "https://radio.yabiladi.com:8002/;", "logoUrl": "https://cdn.radoxo.com/images/morocco/radio-yabiladi.png", "genre": "General" },
   { "name": "RFI Monde", "streamUrl": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png", "genre": "General" },
   { "name": "RIM Radio", "streamUrl": "https://streaming.rimradio.ma/live", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/pfzqx5wcbc7y.png", "genre": "General" },
-  { "name": "Al Idaa Al Wataniya", "streamUrl": "https://radiomarble.com/snrt/radio_nationale.m3u8", "logoUrl": "https://snrtlive.atlashoster.net/uploads/radios/fr/0e589522-7f2c-4cfa-ae94-63d141524d0f.png", "genre": "News" },
   { "name": "Sputnik Arabic", "streamUrl": "https://icecast-rian.cdnvideo.ru/voicearb", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/efwtmkszmacf.png", "genre": "General" },
   { "name": "U Radio", "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac", "logoUrl": "https://media.tunedradios.com/w_600,h_600,q_40/static/radio/5878/logo/3cd2d4f6f930dc55d88f8c25ab254d98.webp", "genre": "General" },
   { "name": "4U Classic Rock", "streamUrl": "https://4uclassicrock.ice.infomaniak.ch/4uclassicrock-128.mp3", "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/4u-classic.png", "genre": "Music" },
