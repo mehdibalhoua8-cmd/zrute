@@ -182,10 +182,40 @@
     "genre": "General"
   },
   {
+    "name": "Radio 2M",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m.m3u8",
+    "logoUrl": "https://radio2m.ma/_nuxt/img/Logo@2x.df151f1.png",
+    "genre": "News & Talk"
+  },
+  {
+    "name": "Al Idaa Al Wataniya (الإذاعة الوطنية)",
+    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_nationale/playlist.m3u8",
+    "logoUrl": "https://www.snrt.ma/sites/default/files/2023-04/idaawataniya.png",
+    "genre": "News & Talk"
+  },
+  {
+    "name": "Al Idaa Al Amazighia (الإذاعة الأمازيغية)",
+    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_amazigh/playlist.m3u8",
+    "logoUrl": "https://www.snrt.ma/sites/default/files/2023-04/idaatamazight.png",
+    "genre": "News & Talk"
+  },
+  {
+    "name": "SNRT Chaîne Inter",
+    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_inter/playlist.m3u8",
+    "logoUrl": "https://www.snrt.ma/sites/default/files/2023-04/chaineinter.png",
+    "genre": "News & Talk"
+  },
+  {
+    "name": "Idaat Mohammed Assadiss (إذاعة محمد السادس للقرآن الكريم)",
+    "streamUrl": "https://cdn.live.easybroadcast.io/live/radio_med_VI/playlist.m3u8",
+    "logoUrl": "https://www.snrt.ma/sites/default/files/2023-04/idaatmohammedassadiss.png",
+    "genre": "Religious"
+  },
+  {
     "name": "Chada FM",
     "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
-    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
-    "genre": "General"
+    "logoUrl": "https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png",
+    "genre": "Variety"
   },
   {
     "name": "Sputnik Arabic",
