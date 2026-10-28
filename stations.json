@@ -1,5 +1,6 @@
 [
   { "name": "Radio Mars", "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/wY3ZYaGepy.png", "genre": "Sports" },
+  { "name": "Chada FM", "streamUrl": "https://chadafm.ice.infomaniak.ch/chadafm-128.aac", "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png", "genre": "Music" },
   { "name": "Adwaa FM", "streamUrl": "https://stream.zeno.fm/5bxh2nh0x1zuv", "logoUrl": "https://adwaafm.com/wp-content/uploads/2023/11/adwaalogo.png", "genre": "General" },
   { "name": "Aswat", "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/kQHmMyteZb.png", "genre": "General" },
   { "name": "Cap Radio", "streamUrl": "https://listen.radioking.com/radio/710810/stream/776360", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/662/cap-radio-kb-rdyw.413c2b73.png", "genre": "General" },
