@@ -42,7 +42,7 @@
   { "name": "Fun Kids Junior", "streamUrl": "https://listen-funkids.sharp-stream.com/funkidsjunior.aac?platform=3p_agg_02", "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/274/fun-kids-junior.ee8d07b3.jpg", "genre": "Music" },
   { "name": "Hashtag Radio", "streamUrl": "https://listen.radioking.com/radio/592426/stream/653230", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/537/hashtag-radio-morocco.3371dc46.png", "genre": "Music" },
   { "name": "Hit Radio", "streamUrl": "https://stream.zeno.fm/une3a02mb", "logoUrl": "https://www.hitradio.ma/logo/small-logo-hitradio_0.png", "genre": "Music" },
-  { "name": "Yabiladi Chaabi Maroc", "streamUrl": "https://radio.yabiladi.com:8102/;stream.mp3", "logoUrl": "https://static.yabiladi.com/images_new/logo_2_yab.png?4", "genre": "Music" },
+  { "name": "Yabiladi Chaabi Maroc", "streamUrl": "https://radio.yabiladi.com:8102/;stream.mp3", "logoUrl": "https://radioenlignefrance.com/storage/radios/9271/75201/conversions/4e6IqriNP25zcUL16lEA3c8eHMMDcq-metaY2hhYWJpLmpwZw==--lg.webp", "genre": "Music" },
   { "name": "Hit Radio Classique", "streamUrl": "https://classique.ice.infomaniak.ch/classique-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__CLASSIC.jpg", "genre": "Music" },
   { "name": "Hit Radio MARRUECOS ESPAÑA", "streamUrl": "https://marruecosespana.ice.infomaniak.ch/marruecosespana-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100--Marruecos-Espa%C3%B1a.jpeg", "genre": "Music" },
   { "name": "Hit Radio Mgharba", "streamUrl": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__MGHARBA.jpg", "genre": "Music" },
