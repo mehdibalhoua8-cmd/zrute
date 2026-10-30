@@ -213,7 +213,8 @@ async function main() {
                 const br = bitrates.get(url);
                 if (br && s.bitrate !== br) s.bitrate = br;
             } else {
-                const fails = (prev.fails || 0) + 1;
+                // A second run on the same day (e.g. started by hand) does not count again
+                const fails = prev.lastCheck === today ? (prev.fails || 1) : (prev.fails || 0) + 1;
                 status[key] = { fails, lastOk: prev.lastOk || null, lastError: error, lastCheck: today };
                 report.failed.push(`${s.name}: ${error} (${fails} in a row)`);
                 if (fails >= OFFLINE_AFTER_FAILS && !s.offline) { s.offline = true; report.nowOffline.push(s.name); }
