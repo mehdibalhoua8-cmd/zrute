@@ -1,0 +1,1224 @@
+{
+  "stations.json:Chada FM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Adwaa FM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Cap Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Classique": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 404",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Medi 1 Hits": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 404",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Medi 1 Jazz": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 404",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:La Confiserie Sonore": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:MFM Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Mars": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Aswat": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio 425": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio 426": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Oxygene FM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Rabat FM": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 401",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Med Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Aljalia": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio MCG24": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Classique": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Jar": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Baitcom": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: EAI_AGAIN",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Radio Achkid FM": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: EAI_AGAIN",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Radio Sawt Alamal": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Medina FM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Orient": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Yabiladi": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Taco": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Tanger Med": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Plus": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Soleil": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:RIM Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Sputnik Arabic": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:RFI Monde": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:80s Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:U Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Atlantic Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Chillout Vibes": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:4U Classic Rock": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: EAI_AGAIN",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Beur FM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hashtag Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 503",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Alpha Radio": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: EAI_AGAIN",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Yabiladi Chaabi Maroc": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio Classique": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 404",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Fun Kids Junior": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Canal Fiesta Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio MARRUECOS ESPAÑA": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio Mgharba": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio TikTok": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio Party": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hits Radio Manchester": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Hit Radio Way Way": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hit Radio Urban": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hits1 Maroc": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Hot Hits UK": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Kids Radio": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: ENOTFOUND",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Love Maroc": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Nayda": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 404",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Medi 1 Tarab": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 404",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Medina Amazigh": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Ma vie Que j'adore": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Musique Beldi": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: CERT_HAS_EXPIRED",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Medina Andalou": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Pop Maroc": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medina Nachat": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Atbir": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:NRJ Oriental": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medina Nostalgie": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medina Tarab": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Ness Radio": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: EAI_AGAIN",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Fayroz": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Azawan": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 502",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Radio Gnawa": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Star Maroc": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Tarab": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Umm Kulthum": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Rap Lbeldi": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Only Raï": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Skyrock Casablanca": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:TikTok Hits": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:U Dance": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:U Pop": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:أغاني الأطفال": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: ENOTFOUND",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:U Rban": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Urban Hits Maroc": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Azrou": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Monte Carlo Doualiya": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Ajial": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio YOUM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Nador": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio RMN": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Marrakech": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Sama": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio France Maghreb": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Almunir": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: ERR_TLS_CERT_ALTNAME_INVALID",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Quran FM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:طيور الجنة": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Quran Maroc": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: CERT_HAS_EXPIRED",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:Medina Coran": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Manarat": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Sawte Ouarzazate": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Quran Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Samaa Radio": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Sheikh Abdulbasit Abdulsamad": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Zine Bladi": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Radio Afrique": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Soufi": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Andalouse": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Latino": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Acoustic": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Lounge": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Darb": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 Chanson Française": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Medi 1 DJ": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Habayiib": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "network: UND_ERR_CONNECT_TIMEOUT",
+    "lastCheck": "2026-10-30"
+  },
+  "stations.json:TDM": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Souss": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:Radio Tafilalt": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "stations.json:أذكار وأدعية مغربية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أكرم العلاقمي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد صابر": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد الحواشي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:شيخ أبو بكر الشاطري": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:إدريس أبكر": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد نعينع": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد العجمي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:إبراهيم الأخضر": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:العيون الكوشي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:جمال شاكر عبدالله": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:خالد القحطاني": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:خليفة الطنيجي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:خالد عبدالكافي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:توفيق الصايغ": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:الزين محمد أحمد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:القارئ ياسين": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:سعود الشريم": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:سيد رمضان": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:سهل ياسين": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:شيرزاد عبدالرحمن طاهر": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:زكي داغستاني": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:سعد الغامدي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:صلاح البدير": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عادل ريان": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:صابر عبدالحكم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالباسط عبدالصمد": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:صلاح بو خاطر": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالبارئ محمد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:صلاح الهاشم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالبارئ الثبيتي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالرحمن السديس": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالعزيز الأحمد": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله المطرود": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالمحسن القاسم": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالمحسن الحارثي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله بصفر": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالمحسن العبيكان": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله عواد الجهني": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالرشيد صوفي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله خياط": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالهادي أحمد كناكري": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:علي جابر": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالودود حنيف": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:علي بن عبدالرحمن الحذيفي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عمر القزابري": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:علي الحذيفي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:علي حجاج السويسي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عماد زهير حافظ": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:فارس عباد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:نعمة الحسان": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:نبيل الرفاعي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:هاني الرفاعي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:ياسر الدوسري": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:ياسر القرشي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:ناصر القطامي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ماهر المعيقلي": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:وليد النائحي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ياسر المزروعي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد اللحيدان": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:يوسف الشويعي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد الطبلاوي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد جبريل": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:محمد أيوب": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد صالح عالم شاه": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد صديق المنشاوي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد عبدالكريم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد عبدالحكيم سعيد العبدالله": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمود خليل الحصري": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمود علي البنا": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:مصطفى إسماعيل": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:مصطفى اللاهوني": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:مصطفى رعد العزاوي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:مشاري العفاسي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:مفتاح السلطني": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ماهر شخاشيرو": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمود الشيمي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:خالد المهنا": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عادل الكلباني": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:موسى بلال": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:حاتم فريد الواعر": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمود الرفاعي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:يوسف بن نوح أحمد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:جمعان العصيمي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:معيض الحارثي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ابراهيم الدوسري": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد رشاد الشريف": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد خضر الطرابلسي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله الكندري": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد الطرابلسي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد عثمان خان": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد عامر": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:الدوكالي محمد العالم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:الفاتح محمد الزبير": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:طارق عبدالغني دعوب": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:-ال العامة - اذاعة متنوعة لمختلف القراء": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:-تلاوات خاشعة-": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:تكبيرات العيد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالرحمن الماجد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:الفتاوى العامة": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:الرقية الشرعية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:---سورة البقرة - لعدد من القراء---": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:--تفسير القران الكريم--": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:خالد الجليل": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ناصر الماجد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:هيثم الجدعاني": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد خليل شاهين": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله الموسى": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله الخلف": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:-تراتيل قصيرة متميزة-": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ماجد الزامل": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:بندر بليلة": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ناصر العصفور": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد أيوب - قراءة مميزة-": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد ديبان": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أذاعة محمد أبوسنينة": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:محمد الأمين قنيوة": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالرحمن الشحات": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالعزيز سحيم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:آيات السكينة": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:--- صور من حياة الصحابة والتابعين رضوان الله عليهم---": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:المختصر في تفسير القرآن الكريم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أذكار المساء": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أذكار الصباح": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:المختصر في السيرة النبوية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:تفسير القران الكريم-الخلاصة من تفسير الطبري": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:صالح الهبدان": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الأوردية - عبدالباسط عبدالصمد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الأسبانية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الألبانية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الألمانية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الأمازيغية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الأوردية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الإنجليزية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة البرتغالية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك-": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة البوسنية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة التركية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الصينية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الروسية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الفرنسية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الفارسية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الكورية": {
+    "fails": 1,
+    "lastOk": null,
+    "lastError": "HTTP 401",
+    "lastCheck": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الكردية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة المجرية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة اليونانية": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:فضل شهر رمضان": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:صحيح مسلم": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:ترجمة معاني القرآن باللغة الهوسا": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:صحيح البخاري": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:سورة الملك": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:***قصص الأنبياء***": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:عبدالله البعيجان": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:رياض الصالحين": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:أحمد طالب بن حميد": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:تفسير غريب القرآن": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:هزاع البلوشي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  },
+  "islamic_stations.json:بدر التركي": {
+    "fails": 0,
+    "lastOk": "2026-10-30"
+  }
+}
