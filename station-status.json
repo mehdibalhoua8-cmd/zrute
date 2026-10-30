@@ -170,10 +170,8 @@
     "lastOk": "2026-10-30"
   },
   "stations.json:Hit Radio": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 503",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "stations.json:Alpha Radio": {
     "fails": 1,
@@ -312,10 +310,8 @@
     "lastOk": "2026-10-30"
   },
   "stations.json:Radio Azawan": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 502",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "stations.json:Radio Gnawa": {
     "fails": 0,
@@ -518,28 +514,20 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:أكرم العلاقمي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:أحمد صابر": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:أحمد الحواشي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:شيخ أبو بكر الشاطري": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:إدريس أبكر": {
     "fails": 0,
@@ -558,34 +546,24 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:العيون الكوشي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:جمال شاكر عبدالله": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:خالد القحطاني": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:خليفة الطنيجي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:خالد عبدالكافي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:توفيق الصايغ": {
     "fails": 0,
@@ -600,34 +578,24 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:سعود الشريم": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:سيد رمضان": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:سهل ياسين": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:شيرزاد عبدالرحمن طاهر": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:زكي داغستاني": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:سعد الغامدي": {
     "fails": 0,
@@ -638,20 +606,16 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عادل ريان": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:صابر عبدالحكم": {
     "fails": 0,
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالباسط عبدالصمد": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:صلاح بو خاطر": {
     "fails": 0,
@@ -670,44 +634,32 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالرحمن السديس": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالعزيز الأحمد": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالله المطرود": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالمحسن القاسم": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالمحسن الحارثي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالله بصفر": {
     "fails": 0,
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالمحسن العبيكان": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالله عواد الجهني": {
     "fails": 0,
@@ -722,16 +674,12 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالهادي أحمد كناكري": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:علي جابر": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عبدالودود حنيف": {
     "fails": 0,
@@ -742,10 +690,8 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:عمر القزابري": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:علي الحذيفي": {
     "fails": 0,
@@ -764,44 +710,32 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:نعمة الحسان": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:نبيل الرفاعي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:هاني الرفاعي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:ياسر الدوسري": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:ياسر القرشي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:ناصر القطامي": {
     "fails": 0,
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:ماهر المعيقلي": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:وليد النائحي": {
     "fails": 0,
@@ -812,10 +746,8 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:محمد اللحيدان": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:يوسف الشويعي": {
     "fails": 0,
@@ -826,10 +758,8 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:محمد جبريل": {
-    "fails": 1,
-    "lastOk": null,
-    "lastError": "HTTP 500",
-    "lastCheck": "2026-10-30"
+    "fails": 0,
+    "lastOk": "2026-10-30"
   },
   "islamic_stations.json:محمد أيوب": {
     "fails": 0,
@@ -868,8 +798,10 @@
     "lastOk": "2026-10-30"
   },
   "islamic_stations.json:مصطفى رعد العزاوي": {
-    "fails": 0,
-    "lastOk": "2026-10-30"
+    "fails": 1,
+    "lastOk": "2026-10-30",
+    "lastError": "HTTP 500",
+    "lastCheck": "2026-10-30"
   },
   "islamic_stations.json:مشاري العفاسي": {
     "fails": 0,

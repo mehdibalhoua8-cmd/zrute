@@ -10,7 +10,8 @@
     "name": "شيخ أبو بكر الشاطري",
     "streamUrl": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B4%D9%8A%D8%AE%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%B1%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "أحمد العجمي",
@@ -23,13 +24,15 @@
     "name": "أحمد الحواشي",
     "streamUrl": "https://backup.qurango.net/radio/ahmad_alhawashi",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B4%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "أحمد صابر",
     "streamUrl": "https://backup.qurango.net/radio/ahmad_saber",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D8%A8%D8%B1.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "أحمد نعينع",
@@ -42,7 +45,8 @@
     "name": "أكرم العلاقمي",
     "streamUrl": "https://backup.qurango.net/radio/akram_alalaqmi",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D9%83%D8%B1%D9%85%20%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D9%85%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "إدريس أبكر",
@@ -69,7 +73,8 @@
     "name": "العيون الكوشي",
     "streamUrl": "https://backup.qurango.net/radio/aloyoon_alkoshi",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D9%83%D9%88%D8%B4%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "توفيق الصايغ",
@@ -82,25 +87,29 @@
     "name": "جمال شاكر عبدالله",
     "streamUrl": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
     "logoUrl": "https://i1.sndcdn.com/artworks-000371141559-wxhkf5-t500x500.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "خالد القحطاني",
     "streamUrl": "https://backup.qurango.net/radio/khaled_alqahtani",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "خالد عبدالكافي",
     "streamUrl": "https://backup.qurango.net/radio/khalid_abdulkafi",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "خليفة الطنيجي",
     "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D9%84%D9%8A%D9%81%D8%A9%20%D8%A7%D9%84%D8%B7%D9%86%D9%8A%D8%AC%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "سعد الغامدي",
@@ -113,31 +122,36 @@
     "name": "سعود الشريم",
     "streamUrl": "https://backup.qurango.net/radio/saud_alshuraim",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%B9%D9%88%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%85.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "سهل ياسين",
     "streamUrl": "https://backup.qurango.net/radio/sahl_yassin",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D9%87%D9%84%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "زكي داغستاني",
     "streamUrl": "https://backup.qurango.net/radio/zaki_daghistani",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B2%D9%83%D9%8A%20%D8%AF%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "سيد رمضان",
     "streamUrl": "https://backup.qurango.net/radio/sayeed_ramadan",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D9%8A%D8%AF%20%D8%B1%D9%85%D8%B6%D8%A7%D9%86.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "شيرزاد عبدالرحمن طاهر",
     "streamUrl": "https://backup.qurango.net/radio/shirazad_taher",
     "logoUrl": "https://i1.sndcdn.com/artworks-000371141559-wxhkf5-t500x500.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "صابر عبدالحكم",
@@ -171,7 +185,8 @@
     "name": "عادل ريان",
     "streamUrl": "https://backup.qurango.net/radio/adel_ryyan",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A7%D8%AF%D9%84%20%D8%B1%D9%8A%D8%A7%D9%86.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالبارئ الثبيتي",
@@ -191,25 +206,29 @@
     "name": "عبدالباسط عبدالصمد",
     "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالرحمن السديس",
     "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D8%AF%D9%8A%D8%B3.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالعزيز الأحمد",
     "streamUrl": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالله المطرود",
     "streamUrl": "https://backup.qurango.net/radio/abdullah_almattrod",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%88%D8%AF.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالله بصفر",
@@ -243,25 +262,29 @@
     "name": "عبدالمحسن الحارثي",
     "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالمحسن القاسم",
     "streamUrl": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالمحسن العبيكان",
     "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D9%83%D8%A7%D9%86.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالهادي أحمد كناكري",
     "streamUrl": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
     "logoUrl": "https://i1.sndcdn.com/artworks-000371141559-wxhkf5-t500x500.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "عبدالودود حنيف",
@@ -288,7 +311,8 @@
     "name": "علي جابر",
     "streamUrl": "https://backup.qurango.net/radio/ali_jaber",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%84%D9%8A%20%D8%AC%D8%A7%D8%A8%D8%B1.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "علي حجاج السويسي",
@@ -308,7 +332,8 @@
     "name": "عمر القزابري",
     "streamUrl": "https://backup.qurango.net/radio/omar_alqazabri",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%85%D8%B1%20%D8%A7%D9%84%D9%82%D8%B2%D8%A7%D8%A8%D8%B1%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "فارس عباد",
@@ -328,19 +353,22 @@
     "name": "نبيل الرفاعي",
     "streamUrl": "https://backup.qurango.net/radio/nabil_al_rifay",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%86%D8%A8%D9%8A%D9%84%20%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "نعمة الحسان",
     "streamUrl": "https://backup.qurango.net/radio/neamah_alhassan",
     "logoUrl": "https://i1.sndcdn.com/artworks-000371141559-wxhkf5-t500x500.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "هاني الرفاعي",
     "streamUrl": "https://backup.qurango.net/radio/hani_arrifai",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%87%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "وليد النائحي",
@@ -353,13 +381,15 @@
     "name": "ياسر الدوسري",
     "streamUrl": "https://backup.qurango.net/radio/yasser_aldosari",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "ياسر القرشي",
     "streamUrl": "https://backup.qurango.net/radio/yasser_alqurashi",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "ياسر المزروعي",
@@ -379,7 +409,8 @@
     "name": "ماهر المعيقلي",
     "streamUrl": "https://backup.qurango.net/radio/maher",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%A7%D9%87%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%82%D9%84%D9%8A.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "محمد الطبلاوي",
@@ -392,7 +423,8 @@
     "name": "محمد اللحيدان",
     "streamUrl": "https://backup.qurango.net/radio/mohammed_allohaidan",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%AF%D8%A7%D9%86.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "محمد أيوب",
@@ -412,7 +444,8 @@
     "name": "محمد جبريل",
     "streamUrl": "https://backup.qurango.net/radio/mohammed_jibreel",
     "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%AC%D8%A8%D8%B1%D9%8A%D9%84.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "bitrate": 128
   },
   {
     "name": "محمد صديق المنشاوي",
