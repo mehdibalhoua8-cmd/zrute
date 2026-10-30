@@ -25,6 +25,8 @@ const DRY_RUN = process.argv.includes('--dry-run');
 const OFFLINE_AFTER_FAILS = 2;
 const TIMEOUT_MS = 12000;
 const CONCURRENCY = 8;
+const PER_HOST = 2;
+const RETRY_DELAY_MS = 5000;
 // Enough audio to prove the stream is live and not an error page
 const MIN_BYTES = 4096;
 
@@ -137,6 +139,26 @@ function lowBitrateCandidates(url) {
     return out;
 }
 
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+// At most PER_HOST checks at once on one server: qurango.net (Quran radios) answers
+// HTTP 500 when many of its streams are opened together
+const hostSlots = new Map();
+async function checkHost(url) {
+    let host = '';
+    try { host = new URL(url).host; } catch { return checkUrl(url); }
+    const slot = hostSlots.get(host) || { active: 0, queue: [] };
+    hostSlots.set(host, slot);
+    if (slot.active >= PER_HOST) await new Promise(r => slot.queue.push(r));
+    slot.active++;
+    try {
+        return await checkUrl(url);
+    } finally {
+        slot.active--;
+        slot.queue.shift()?.();
+    }
+}
+
 async function mapLimit(items, limit, fn) {
     const results = new Array(items.length);
     let next = 0;
@@ -177,7 +199,12 @@ async function main() {
             if (s.embed || !url) { report.skipped++; return; }
             const key = `${file}:${s.name}`;
             const prev = status[key] || { fails: 0 };
-            const error = await checkUrl(url);
+            let error = await checkHost(url);
+            // One more try a little later: DNS hiccups and busy servers are common on the runner
+            if (error) {
+                await sleep(RETRY_DELAY_MS);
+                error = await checkHost(url);
+            }
 
             if (!error) {
                 report.ok++;
