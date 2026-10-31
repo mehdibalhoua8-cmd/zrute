@@ -1011,7 +1011,8 @@
     "name": "ترجمة معاني القرآن باللغة الكورية",
     "streamUrl": "https://backup.qurango.net/radio/translation_quran_Korean",
     "logoUrl": "https://i1.sndcdn.com/artworks-000371141559-wxhkf5-t500x500.jpg",
-    "genre": "Religious"
+    "genre": "Religious",
+    "offline": true
   },
   {
     "name": "ترجمة معاني القرآن باللغة المجرية",
