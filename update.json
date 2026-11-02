@@ -1,0 +1,16 @@
+{
+  "show": true,
+  "force": true,
+  "latestVersionCode": 16,
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.dragos.radiomarocrn",
+  "title": {
+    "en": "Update available",
+    "fr": "Mise à jour disponible",
+    "ar": "تحديث متوفر"
+  },
+  "message": {
+    "en": "A new version of Sawt Maroc is available, with fixes and new stations.",
+    "fr": "Une nouvelle version de Sawt Maroc est disponible, avec des corrections et de nouvelles stations.",
+    "ar": "نسخة جديدة من صوت المغرب متوفرة، مع إصلاحات ومحطات جديدة."
+  }
+}
