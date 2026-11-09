@@ -129,5 +129,7 @@
   { "name": "Allzic French Mix", "streamUrl": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.mp3", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/allzic-french-mix.jpg", "genre": "Music", "lowStreamUrl": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.aac", "bitrate": 128 },
   { "name": "Yabiladi Azawan Amazigh", "streamUrl": "https://radio.yabiladi.com:9002/;", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/yabiladi-radio.png", "genre": "Music", "bitrate": 128 },
   { "name": "Yabiladi Nayda Urban Music", "streamUrl": "https://radio.yabiladi.com:9102/;", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/yabiladi-radio.png", "genre": "Music", "bitrate": 128 },
+  { "name": "Radio Samaa", "streamUrl": "https://stream-288.surfernetwork.com/nezfuswpyjfuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuZXpmdXN3cHlqZnV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI2VFU2VVkyUlNUU2xGWFdHTmtPT0J3IiwiaWF0IjoxNzk0MjYwOTI0LCJleHAiOjE3OTQyNjA5ODR9.UtSX265kPAnTEXBc0lqzzRAotX0X4oyhotcy21rR-vY", "logoUrl": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_189780.png", "genre": "Music", "bitrate": 128 },
+  
   { "name": "FunX Arab", "streamUrl": "https://icecast.omroep.nl/funx-arab-bb-mp3", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/funx-arab.jpg", "genre": "Music", "lowStreamUrl": "https://icecast.omroep.nl/funx-arab-sb-mp3" }
 ]
