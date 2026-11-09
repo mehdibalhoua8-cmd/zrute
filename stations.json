@@ -73,7 +73,7 @@
   { "name": "Radio Umm Kulthum", "streamUrl": "https://stream.zeno.fm/zsgrfxg71s8uv", "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/794/rdyw-m-klthwm.c33dca10.png", "genre": "Music", "bitrate": 128 },
   { "name": "Rap Lbeldi", "streamUrl": "https://stream.zeno.fm/ivdufrl7q0quv", "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/051/rap-lbeldi-maroc-hip-hop-music-from-morocco.9f11d6ac.jpg", "genre": "Music", "bitrate": 128 },
   { "name": "Skyrock Casablanca", "streamUrl": "https://icecast.skyrock.net/s/casa_aac_64k", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/sv9ecau88y9n.jpg", "genre": "Music", "bitrate": 128 },
-  { "name": "اغاني الكرتون القديم", "streamUrl": "https://stream.zeno.fm/gbxf0gh7sk8uv", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/old_cartoon.webp", "genre": "Music", "bitrate": 128 },
+  { "name": "أغاني الكرتون القديم", "streamUrl": "https://stream.zeno.fm/gbxf0gh7sk8uv", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/old_cartoon.webp", "genre": "Music", "bitrate": 128 },
   { "name": "TikTok Hits", "streamUrl": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/248/tiktok-hits.08ab6d31.png", "genre": "Music", "bitrate": 64 },
   { "name": "U Pop", "streamUrl": "https://upop.ice.infomaniak.ch/upop-128.aac", "logoUrl": "https://kso.mo.cloudinary.net/img/radio/upop.png", "genre": "Music", "bitrate": 128 },
   { "name": "U Rban", "streamUrl": "https://urban.ice.infomaniak.ch/urban-128.aac", "logoUrl": "https://kso.mo.cloudinary.net/img/radio/urban.png", "genre": "Music", "bitrate": 128 },
