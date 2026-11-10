@@ -47,6 +47,7 @@
   { "name": "Hit Radio Party", "streamUrl": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__PARTY.jpg", "genre": "Music", "bitrate": 128 },
   { "name": "Hit Radio TikTok", "streamUrl": "https://buzz.ice.infomaniak.ch/buzz-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__TIKTOK.jpg", "genre": "Music", "bitrate": 128 },
   { "name": "Hit Radio Urban", "streamUrl": "https://rnb.ice.infomaniak.ch/rnb-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__URBAN.jpg", "genre": "Music", "bitrate": 128 },
+  { "name": "Hit Radio Classic", "streamUrl": "https://gold.ice.infomaniak.ch/gold-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__CLASSIC.jpg", "genre": "Music", "bitrate": 128 },
   { "name": "Hit Radio Way Way", "streamUrl": "https://wayway.ice.infomaniak.ch/wayway-128.mp3", "logoUrl": "https://hittradio.com/uploads/webradio/100__WAY_WAY.jpg", "genre": "Music", "bitrate": 128 },
   { "name": "Hits1 Maroc", "streamUrl": "https://radio12.pro-fhi.net/live/Hits1radio", "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/hits1-maroc.png", "genre": "Music", "bitrate": 192 },
   { "name": "Hot Hits UK", "streamUrl": "https://443-1.autopo.st/54/stream.mp3", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/093/hot-hits-uk.4ca8a05f.png", "genre": "Music", "bitrate": 192 },
