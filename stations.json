@@ -30,7 +30,7 @@
   { "name": "Radio Yabiladi", "streamUrl": "https://radio.yabiladi.com:8002/;", "logoUrl": "https://cdn.radoxo.com/images/morocco/radio-yabiladi.png", "genre": "General", "bitrate": 128 },
   { "name": "RFI Monde", "streamUrl": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png", "genre": "General", "bitrate": 64 },
   { "name": "RIM Radio", "streamUrl": "https://streaming.rimradio.ma/live", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/pfzqx5wcbc7y.png", "genre": "General", "bitrate": 128 },
-  { "name": "Sputnik Arabic", "streamUrl": "https://icecast-rian.cdnvideo.ru/voicearb", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/efwtmkszmacf.png", "genre": "General", "bitrate": 64 },
+  { "name": "Sputnik Arabic", "streamUrl": "https://icecast-rian.cdnvideo.ru/voicearb", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/efwtmkszmacf.png", "genre": "General", "bitrate": 64, "offline": true },
   { "name": "U Radio", "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac", "logoUrl": "https://media.tunedradios.com/w_600,h_600,q_40/static/radio/5878/logo/3cd2d4f6f930dc55d88f8c25ab254d98.webp", "genre": "General", "bitrate": 128 },
   { "name": "4U Classic Rock", "streamUrl": "https://str4uice.streamakaci.com/4uclassicrock.mp3", "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/4u-classic.png", "genre": "Music", "bitrate": 128 },
   { "name": "80s Radio", "streamUrl": "https://securestream.cuelightsmedia.com.au/listen/80s/low.aac", "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/7nEfHJkZgr.png", "genre": "Music", "bitrate": 160 },
