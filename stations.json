@@ -124,7 +124,6 @@
 
   
   { "name": "Chada FM", "streamUrl": "https://chadafm.ice.infomaniak.ch/chadafm-128.aac", "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png", "genre": "Music", "bitrate": 128 },
-  { "name": "SNRT Radio Laayoune", "streamUrl": "", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/snrt-laayoune.png", "genre": "General", "embed": { "playlist": "https://libs.easybroadcast.io/snrt/SNRTplaylistRadios.js", "elementId": "Playlist_snrt_radios-player", "slide": 10 } },
   { "name": "Allzic Musique Orientale", "streamUrl": "https://allzic33.ice.infomaniak.ch/allzic33.mp3", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/allzic-musique-orientale.png", "genre": "Music", "lowStreamUrl": "https://allzic33.ice.infomaniak.ch/allzic33.aac", "bitrate": 128 },
   { "name": "Allzic French Mix", "streamUrl": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.mp3", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/allzic-french-mix.jpg", "genre": "Music", "lowStreamUrl": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.aac", "bitrate": 128 },
   { "name": "Yabiladi Azawan Amazigh", "streamUrl": "https://radio.yabiladi.com:9002/;", "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/yabiladi-radio.png", "genre": "Music", "bitrate": 128 },
