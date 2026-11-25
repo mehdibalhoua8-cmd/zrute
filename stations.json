@@ -872,7 +872,7 @@
   {
     "name": "Allzic Musique Orientale",
     "streamUrl": "https://allzic33.ice.infomaniak.ch/allzic33.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/allzic-musique-orientale.png",
+    "logoUrl": "https://www.allzicradio.com/media/radios/allzic-orientale_600px-carre.png",
     "genre": "Music",
     "lowStreamUrl": "https://allzic33.ice.infomaniak.ch/allzic33.aac",
     "bitrate": 128
@@ -880,7 +880,7 @@
   {
     "name": "Allzic French Mix",
     "streamUrl": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/allzic-french-mix.jpg",
+    "logoUrl": "https://www.allzicradio.com/media/radios/french-mix-by-allzic_69360e07ba2e9.jpg",
     "genre": "Music",
     "lowStreamUrl": "https://allzic65frenchmix.ice.infomaniak.ch/allzic65.aac",
     "bitrate": 128
@@ -888,14 +888,14 @@
   {
     "name": "Yabiladi Azawan Amazigh",
     "streamUrl": "https://radio.yabiladi.com:9002/;",
-    "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/yabiladi-radio.png",
+    "logoUrl": "https://static.yabiladi.com/images/logo_facebook.png",
     "genre": "Music",
     "bitrate": 128
   },
   {
     "name": "Yabiladi Nayda Urban Music",
     "streamUrl": "https://radio.yabiladi.com:9102/;",
-    "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/yabiladi-radio.png",
+    "logoUrl": "https://static.yabiladi.com/images/logo_facebook.png",
     "genre": "Music",
     "bitrate": 128
   },
@@ -909,7 +909,7 @@
   {
     "name": "FunX Arab",
     "streamUrl": "https://icecast.omroep.nl/funx-arab-bb-mp3",
-    "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/funx-arab.jpg",
+    "logoUrl": "https://www.radio.fr/300/funxnlarab.png",
     "genre": "Music",
     "lowStreamUrl": "https://icecast.omroep.nl/funx-arab-sb-mp3"
   },
@@ -1026,7 +1026,7 @@
   {
     "name": "SNRT Radio Laayoune",
     "streamUrl": "",
-    "logoUrl": "https://raw.githubusercontent.com/mehdibalhoua8-cmd/zrute/main/logos/snrt-laayoune.png",
+    "logoUrl": "https://cdn.radoxo.com/images/morocco/radio-laayoune-7171c6.webp",
     "genre": "General",
     "embed": {
       "playlist": "https://libs.easybroadcast.io/snrt/SNRTplaylistRadios.js",
