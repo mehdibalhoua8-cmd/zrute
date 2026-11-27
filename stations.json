@@ -155,7 +155,8 @@
     "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/a2zAnuUzNF.png",
     "genre": "General",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Orient",
@@ -281,7 +282,7 @@
     "streamUrl": "https://listen-funkids.sharp-stream.com/funkidsjunior.aac?platform=3p_agg_02",
     "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/274/fun-kids-junior.ee8d07b3.jpg",
     "genre": "Music",
-    "bitrate": 63
+    "bitrate": 64
   },
   {
     "name": "Hashtag Radio",
